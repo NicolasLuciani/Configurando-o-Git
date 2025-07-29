@@ -101,3 +101,28 @@ Modifique o arquivo após adicioná-lo ao stage. Como incluir as novas mudanças
 ---
 
 ## ✅ **Atividade 1.4 – Visualizando o Histórico**
+
+**📌 Cenário:**
+
+Veja o histórico do seu projeto.
+
+**📂 Instruções:**
+
+1️⃣ No diretório do repositório Git.
+
+2️⃣ Visualize o histórico de commits.
+
+3️⃣ Experimente opções de exibição (curta/detalhada).
+
+**🔍 Pesquise:**
+
+- Como visualizar o histórico (`git log`)?
+- Quais opções existem para formatar a saída?
+
+**✔️ Verifique:**
+
+Commits devem aparecer com mensagens, autor e data.
+
+**🎯 Desafio:**
+
+Veja apenas os últimos commits ou o histórico de um arquivo específico.
