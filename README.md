@@ -1,6 +1,9 @@
 # Configurando-o-Git
 # Aprendendo a utilizar o Git e personalizando
 
+
+
+
 ## ✅ **Atividade 1.1 – Configurando o Git**
 
 **📌 Cenário:**
